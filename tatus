@@ -1,0 +1,39 @@
+[33mcommit debe2138b3a7c5010cb134fc454eeb85b1a69dbe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3b64301 482ea28
+Author: dawan <tes@dawan.fr>
+Date:   Tue Nov 7 17:04:42 2023 +0100
+
+    Merge branch 'master' of https://github.com/MouradDawan75/VbFormation
+
+[33mcommit 3b64301e520f23d7d344850b707ea3d972b425e6[m
+Author: dawan <tes@dawan.fr>
+Date:   Tue Nov 7 17:04:17 2023 +0100
+
+    Jour2
+
+[33mcommit 482ea2849471c9a4e03ac8d526f4865aaea59261[m
+Merge: 9b1fc37 0413c67
+Author: MouradDawan75 <74711523+MouradDawan75@users.noreply.github.com>
+Date:   Tue Nov 7 08:40:05 2023 +0100
+
+    Merge pull request #1 from MouradDawan75/Users
+    
+    user ok
+
+[33mcommit 0413c6706d760785d797ef2f74782b4a55cd2fa2[m[33m ([m[1;31morigin/Users[m[33m, [m[1;32mUsers[m[33m)[m
+Author: dawan <tes@dawan.fr>
+Date:   Tue Nov 7 08:37:38 2023 +0100
+
+    user ok
+
+[33mcommit 9b1fc37fb854cca02f47007e0066af4b50a75470[m
+Author: dawan <tes@dawan.fr>
+Date:   Tue Nov 7 08:25:08 2023 +0100
+
+    Ajoutez des fichiers projet.
+
+[33mcommit 7e880b48d676c2d5241870e9b99f1dd4ef59e0e0[m
+Author: dawan <tes@dawan.fr>
+Date:   Tue Nov 7 08:25:06 2023 +0100
+
+    Ajouter .gitattributes et .gitignore

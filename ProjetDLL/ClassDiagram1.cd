@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjetDLL.Femme" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Abstraction\Femme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Homme" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Abstraction\Homme.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Humain" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAQCAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Abstraction\Humain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.CompteBancaire" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAAAAABAAEgAAAAABAACAAAIAAAAAEAAABAAA=</HashCode>
+      <FileName>ConceptsObjets\Encapsulation\CompteBancaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Rectangle" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAEAAAAAEAaAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Encapsulation\Rectangle.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.A" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\A.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Animal" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAQACAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\Animal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.B" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\B.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.C" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\C.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Chat">
+    <Position X="2.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\Chat.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Chien">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\Chien.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.D" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\D.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.MyClasse" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptsObjets\Heritage\MyClasse.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.Tools" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjetDLL.My.MySettings" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="ProjetDLL.My.Resources.Resources" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ProjetDLL.My.MySettingsProperty" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

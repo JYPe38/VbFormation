@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TP_Objets.Commercial">
+    <Position X="1" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commercial.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.Employe">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAEAAAIACACAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Employe.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.ManutARisque">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManutARisque.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.Manutentionnaire">
+    <Position X="5.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAIAGAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manutentionnaire.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.Representant">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIACAAAEAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Representant.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.TechARisque">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TechARisque.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.Technicien">
+    <Position X="7.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAIACAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Technicien.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP_Objets.Vendeur">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAKACAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Vendeur.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
